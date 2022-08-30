@@ -2,7 +2,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
     public static void main(String[] args) {
-        Employee[] empl = new Employee[5];
+        Employee[] empl = new Employee[10];
         empl[0] = new Employee("Ivanov Ivan Ivanovich1", 1, 75500f);
         empl[1] = new Employee("Ivanov Ivan Ivanovich2", 2, 83450f);
         empl[2] = new Employee("Ivanov Ivan Ivanovich3", 3, 71200f);
